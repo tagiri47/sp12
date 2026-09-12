@@ -12,8 +12,7 @@
     --muted: #6b7280;
     --card-bg: #ffffff;
     --card-border: #e2e4e8;
-    --column-bg: #eceef1;
-    --header-bg: #ffffff;
+    --section-bg: #eceef1;
     --accent: #2563eb;
     --accent-fg: #ffffff;
     --badge-another: #d64545;
@@ -29,8 +28,7 @@
       --muted: #9aa1ab;
       --card-bg: #24262b;
       --card-border: #34363c;
-      --column-bg: #1d1f24;
-      --header-bg: #24262b;
+      --section-bg: #1d1f24;
       --accent: #3b82f6;
       --accent-fg: #0b0d10;
       --badge-another: #e06565;
@@ -61,10 +59,16 @@
     font-size: 0.85rem;
   }
 
+  .controls {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 20px;
+    padding: 0 24px 12px;
+  }
   .tabs {
     display: flex;
     gap: 8px;
-    padding: 0 24px 12px;
   }
   .tab-btn {
     border: none;
@@ -81,54 +85,66 @@
     color: var(--accent-fg);
   }
 
+  .col-control {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.85rem;
+    color: var(--muted);
+  }
+  .col-buttons {
+    display: flex;
+    gap: 4px;
+  }
+  .col-btn {
+    border: none;
+    border-radius: 6px;
+    width: 30px;
+    height: 30px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    cursor: pointer;
+    background: var(--tab-inactive-bg);
+    color: var(--tab-inactive-fg);
+  }
+  .col-btn.active {
+    background: var(--accent);
+    color: var(--accent-fg);
+  }
+
   .stats {
-    padding: 0 24px 12px;
+    padding: 0 24px 16px;
     color: var(--muted);
     font-size: 0.8rem;
   }
 
-  .board-wrap {
-    padding: 0 24px 24px;
-    overflow-x: auto;
-  }
   .board {
-    display: grid;
-    grid-auto-flow: column;
-    grid-auto-columns: 220px;
-    gap: 10px;
-    align-items: start;
-  }
-  .column {
-    background: var(--column-bg);
-    border-radius: 10px;
+    padding: 0 24px 24px;
     display: flex;
     flex-direction: column;
-    max-height: calc(100vh - 170px);
-    min-height: 120px;
+    gap: 14px;
   }
-  .column-header {
-    position: sticky;
-    top: 0;
-    background: var(--header-bg);
-    border-radius: 10px 10px 0 0;
-    padding: 10px 12px 8px;
+  .section {
+    background: var(--section-bg);
+    border-radius: 10px;
+    padding: 10px 12px 12px;
+  }
+  .section-header {
     font-weight: 700;
     font-size: 0.95rem;
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-    border-bottom: 1px solid var(--card-border);
+    padding-bottom: 8px;
   }
-  .column-header .count {
+  .section-header .count {
     font-weight: 500;
     font-size: 0.75rem;
     color: var(--muted);
   }
-  .column-list {
-    overflow-y: auto;
-    padding: 8px;
-    display: flex;
-    flex-direction: column;
+  .section-grid {
+    display: grid;
+    grid-template-columns: repeat(var(--cols, 3), minmax(0, 1fr));
     gap: 6px;
   }
   .chip {
@@ -141,6 +157,7 @@
     display: flex;
     align-items: center;
     gap: 6px;
+    min-width: 0;
   }
   .chip .badge {
     flex: none;
@@ -160,13 +177,6 @@
   .chip .title {
     overflow-wrap: anywhere;
   }
-  .column-list::-webkit-scrollbar {
-    width: 6px;
-  }
-  .column-list::-webkit-scrollbar-thumb {
-    background: var(--card-border);
-    border-radius: 3px;
-  }
 </style>
 </head>
 <body>
@@ -175,16 +185,20 @@
     <p class="subtitle">地力 / 個人差 タイル × クリアランプ基準（ノーマル / ハード）で分類</p>
   </header>
 
-  <div class="tabs">
-    <button class="tab-btn active" data-mode="nomal">ノーマルクリア基準</button>
-    <button class="tab-btn" data-mode="hard">ハードクリア基準</button>
+  <div class="controls">
+    <div class="tabs">
+      <button class="tab-btn active" data-mode="nomal">ノーマルクリア基準</button>
+      <button class="tab-btn" data-mode="hard">ハードクリア基準</button>
+    </div>
+    <div class="col-control">
+      <span>1行に表示する曲数</span>
+      <div class="col-buttons" id="colButtons"></div>
+    </div>
   </div>
 
   <div class="stats" id="stats"></div>
 
-  <div class="board-wrap">
-    <div class="board" id="board"></div>
-  </div>
+  <div class="board" id="board"></div>
 
 <script id="chart-data" type="application/json">__CHART_DATA__</script>
 <script id="tier-order" type="application/json">__TIER_ORDER__</script>
@@ -195,6 +209,23 @@
   const boardEl = document.getElementById('board');
   const statsEl = document.getElementById('stats');
   const tabBtns = document.querySelectorAll('.tab-btn');
+  const colButtonsEl = document.getElementById('colButtons');
+
+  const DEFAULT_COLS = 3;
+  let cols = DEFAULT_COLS;
+
+  for (let n = 1; n <= 5; n++) {
+    const btn = document.createElement('button');
+    btn.className = 'col-btn' + (n === DEFAULT_COLS ? ' active' : '');
+    btn.textContent = n;
+    btn.dataset.cols = n;
+    btn.addEventListener('click', () => {
+      cols = n;
+      document.querySelectorAll('.col-btn').forEach(b => b.classList.toggle('active', Number(b.dataset.cols) === n));
+      boardEl.style.setProperty('--cols', cols);
+    });
+    colButtonsEl.appendChild(btn);
+  }
 
   function render(mode) {
     const key = mode === 'hard' ? 'hard' : 'nomal';
@@ -205,18 +236,19 @@
     }
 
     boardEl.innerHTML = '';
+    boardEl.style.setProperty('--cols', cols);
     for (const tier of TIERS) {
       const list = byTier.get(tier) || [];
-      const column = document.createElement('div');
-      column.className = 'column';
+      const section = document.createElement('div');
+      section.className = 'section';
 
       const header = document.createElement('div');
-      header.className = 'column-header';
+      header.className = 'section-header';
       header.innerHTML = `<span>${tier}</span><span class="count">${list.length}</span>`;
-      column.appendChild(header);
+      section.appendChild(header);
 
-      const listEl = document.createElement('div');
-      listEl.className = 'column-list';
+      const grid = document.createElement('div');
+      grid.className = 'section-grid';
       for (const entry of list) {
         const chip = document.createElement('div');
         chip.className = 'chip';
@@ -224,10 +256,10 @@
         chip.dataset.csv = entry.csv;
         chip.dataset.diff = entry.diff;
         chip.innerHTML = `<span class="badge ${entry.diff}">${entry.diffLabel}</span><span class="title">${entry.title}</span>`;
-        listEl.appendChild(chip);
+        grid.appendChild(chip);
       }
-      column.appendChild(listEl);
-      boardEl.appendChild(column);
+      section.appendChild(grid);
+      boardEl.appendChild(section);
     }
 
     statsEl.textContent = `全 ${DATA.length} 譜面`;
