@@ -332,7 +332,7 @@
   function parseCSV(text) {
     text = text.replace(/^﻿/, '');
     const rows = [];
-    let field = '', row = [], inQuotes = false;
+    let field = '', row = [], inQuotes = false, fieldStart = true;
     for (let i = 0; i < text.length; i++) {
       const c = text[i];
       if (inQuotes) {
@@ -341,16 +341,21 @@
         } else {
           field += c;
         }
-      } else if (c === '"') {
-        inQuotes = true;
-      } else if (c === ',') {
-        row.push(field); field = '';
+        continue;
+      }
+      // A field is only treated as quoted when the quote is the very first
+      // character of the field. A stray quote elsewhere (e.g. a song title
+      // like Anisakis -somatic mutation type"Forza"-) is real IIDX CSV data
+      // and must be kept as a literal character, not a quote delimiter.
+      if (fieldStart && c === '"') { inQuotes = true; fieldStart = false; continue; }
+      if (c === ',') {
+        row.push(field); field = ''; fieldStart = true;
       } else if (c === '\r') {
         // ignore, handled by \n
       } else if (c === '\n') {
-        row.push(field); rows.push(row); row = []; field = '';
+        row.push(field); rows.push(row); row = []; field = ''; fieldStart = true;
       } else {
-        field += c;
+        field += c; fieldStart = false;
       }
     }
     if (field.length || row.length) { row.push(field); rows.push(row); }
