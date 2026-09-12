@@ -6,7 +6,11 @@
 <title>beatmania IIDX ☆12 難易度表</title>
 <style>
   :root {
-    color-scheme: light dark;
+    /* Intentionally locked to the light palette below: clear-lamp colors
+       (NO PLAY white, FAILED gray, ...) are only distinguishable against a
+       fixed light background, so the page must not shift with the
+       browser/OS theme. */
+    color-scheme: light;
     --bg: #f5f6f8;
     --fg: #1c1e21;
     --muted: #6b7280;
@@ -20,23 +24,6 @@
     --badge-leggendaria: #8b3fd6;
     --tab-inactive-bg: #e5e7eb;
     --tab-inactive-fg: #374151;
-  }
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --bg: #16181c;
-      --fg: #e6e8eb;
-      --muted: #9aa1ab;
-      --card-bg: #24262b;
-      --card-border: #34363c;
-      --section-bg: #1d1f24;
-      --accent: #3b82f6;
-      --accent-fg: #0b0d10;
-      --badge-another: #e06565;
-      --badge-hyper: #e0ac4f;
-      --badge-leggendaria: #a875e0;
-      --tab-inactive-bg: #2a2d33;
-      --tab-inactive-fg: #c3c7cd;
-    }
   }
 
   * { box-sizing: border-box; }
@@ -218,10 +205,6 @@
   }
   .chip.has-clear-status {
     border-color: rgba(0, 0, 0, 0.15);
-  }
-  .chip.unmatched {
-    opacity: 0.5;
-    border-style: dashed;
   }
   .chip .badge {
     flex: none;
@@ -452,16 +435,13 @@
         if (clearMap) {
           const rec = clearMap.get(entry.csv);
           const clearType = rec && rec[entry.diff];
-          const style = clearType && CLEAR_STYLE_BY_TYPE.get(clearType);
-          if (style) {
-            chip.classList.add('has-clear-status');
-            chip.style.background = style.bg;
-            chip.style.color = style.fg;
-            chip.title = style.label;
-          } else {
-            chip.classList.add('unmatched');
-            chip.title = 'CSVに一致するデータが見つかりません';
-          }
+          // Treat "not found in the CSV" the same as NO PLAY: from the
+          // player's perspective both mean "never cleared this chart".
+          const style = (clearType && CLEAR_STYLE_BY_TYPE.get(clearType)) || CLEAR_STYLE_BY_TYPE.get('NO PLAY');
+          chip.classList.add('has-clear-status');
+          chip.style.background = style.bg;
+          chip.style.color = style.fg;
+          chip.title = style.label;
         }
 
         grid.appendChild(chip);
