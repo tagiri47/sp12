@@ -1,0 +1,5805 @@
+{
+  "A": {
+    "name_on_csv": "A",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力F",
+        "hard_tier": "地力F"
+      }
+    }
+  },
+  "snow storm": {
+    "name_on_csv": "snow storm",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力F",
+        "hard_tier": "地力F"
+      }
+    }
+  },
+  "Ristaccia": {
+    "name_on_csv": "Ristaccia",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力F",
+        "hard_tier": "地力F"
+      }
+    }
+  },
+  "SPECIAL SUMMER CAMPAIGN!": {
+    "name_on_csv": "SPECIAL SUMMER CAMPAIGN!",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力F",
+        "hard_tier": "地力F"
+      }
+    }
+  },
+  "sakura storm": {
+    "name_on_csv": "sakura storm",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差F",
+        "hard_tier": "個人差E"
+      }
+    }
+  },
+  "Primitive Vibes": {
+    "name_on_csv": "Primitive Vibes",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力F",
+        "hard_tier": "地力F"
+      }
+    }
+  },
+  "CUE CUE RESCUE": {
+    "name_on_csv": "CUE CUE RESCUE",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力F",
+        "hard_tier": "地力F"
+      }
+    }
+  },
+  "残像ニ繋ガレタ追憶ノHIDEAWAY": {
+    "name_on_csv": "残像ニ繋ガレタ追憶ノHIDEAWAY",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力F",
+        "hard_tier": "地力F"
+      }
+    }
+  },
+  "スパークリング☆彡ハイパーチューン！！": {
+    "name_on_csv": "スパークリング☆彡ハイパーチューン！！",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力F",
+        "hard_tier": "地力F"
+      }
+    }
+  },
+  "Colors(radio edit)": {
+    "name_on_csv": "Colors (radio edit)",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力E",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "moon_child": {
+    "name_on_csv": "moon_child",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力E",
+        "hard_tier": "地力E"
+      }
+    }
+  },
+  "one or eight": {
+    "name_on_csv": "one or eight",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差E",
+        "hard_tier": "個人差D"
+      }
+    }
+  },
+  "Innocent Walls": {
+    "name_on_csv": "Innocent Walls",
+    "charts": {
+      "hyper": {
+        "nomal_tier": "個人差E",
+        "hard_tier": "個人差D"
+      },
+      "another": {
+        "nomal_tier": "個人差E",
+        "hard_tier": "個人差D"
+      }
+    }
+  },
+  "雪月花": {
+    "name_on_csv": "雪月花",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差E",
+        "hard_tier": "個人差E"
+      }
+    }
+  },
+  "gigadelic": {
+    "name_on_csv": "gigadelic",
+    "charts": {
+      "hyper": {
+        "nomal_tier": "地力E",
+        "hard_tier": "地力F"
+      },
+      "another": {
+        "nomal_tier": "地力E",
+        "hard_tier": "地力F"
+      }
+    }
+  },
+  "RED ZONE": {
+    "name_on_csv": "RED ZONE",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力E",
+        "hard_tier": "地力E"
+      }
+    }
+  },
+  "SCREAM SQUAD": {
+    "name_on_csv": "SCREAM SQUAD",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差E",
+        "hard_tier": "個人差E"
+      }
+    }
+  },
+  "Concertino in Blue": {
+    "name_on_csv": "Concertino in Blue",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力E",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "DUE TOMORROW": {
+    "name_on_csv": "DUE TOMORROW",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差E",
+        "hard_tier": "個人差C"
+      }
+    }
+  },
+  "LASER CRUSTER": {
+    "name_on_csv": "LASER CRUSTER",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力E",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "VANESSA": {
+    "name_on_csv": "VANESSA",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力E",
+        "hard_tier": "地力D"
+      },
+      "leggendaria": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "GRID KNIGHT": {
+    "name_on_csv": "GRID KNIGHT",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "個人差E",
+        "hard_tier": "地力E"
+      }
+    }
+  },
+  "少年A": {
+    "name_on_csv": "少年A",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力E",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "ICARUS": {
+    "name_on_csv": "ICARUS",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差E",
+        "hard_tier": "個人差C"
+      },
+      "leggendaria": {
+        "nomal_tier": "地力S",
+        "hard_tier": "地力S+"
+      }
+    }
+  },
+  "TROOPERS": {
+    "name_on_csv": "TROOPERS",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差E",
+        "hard_tier": "個人差D"
+      }
+    }
+  },
+  "黒髪乱れし修羅となりて": {
+    "name_on_csv": "黒髪乱れし修羅となりて",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力E",
+        "hard_tier": "地力E"
+      }
+    }
+  },
+  "F": {
+    "name_on_csv": "F",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力E",
+        "hard_tier": "地力E"
+      }
+    }
+  },
+  "Todestrieb": {
+    "name_on_csv": "Todestrieb",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力E",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "Liberation": {
+    "name_on_csv": "Liberation",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力E",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "Little Star": {
+    "name_on_csv": "Little Star",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力E",
+        "hard_tier": "地力E"
+      }
+    }
+  },
+  "ΕΛΠΙΣ": {
+    "name_on_csv": "ΕΛΠΙΣ",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力E",
+        "hard_tier": "地力E"
+      },
+      "leggendaria": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "invoker": {
+    "name_on_csv": "invoker",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力E",
+        "hard_tier": "地力E"
+      },
+      "leggendaria": {
+        "nomal_tier": "個人差A+",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "Symmetry": {
+    "name_on_csv": "Symmetry",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力E",
+        "hard_tier": "地力E"
+      }
+    }
+  },
+  "千年ノ理": {
+    "name_on_csv": "千年ノ理",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力E",
+        "hard_tier": "地力F"
+      },
+      "leggendaria": {
+        "nomal_tier": "地力S",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "紅牡丹": {
+    "name_on_csv": "紅牡丹",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力E",
+        "hard_tier": "地力E"
+      }
+    }
+  },
+  "NINJA IS DEAD IIDX ver.": {
+    "name_on_csv": "NINJA IS DEAD IIDX ver.",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力E",
+        "hard_tier": "地力E"
+      }
+    }
+  },
+  "Apocalypse": {
+    "name_on_csv": "Apocalypse",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力E",
+        "hard_tier": "地力E"
+      }
+    }
+  },
+  "Summerlights(IIDX Edition)": {
+    "name_on_csv": "Summerlights(IIDX Edition)",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力E",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "Venom": {
+    "name_on_csv": "Venom",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力E",
+        "hard_tier": "地力E"
+      }
+    }
+  },
+  "Steel Edge": {
+    "name_on_csv": "Steel Edge",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差E",
+        "hard_tier": "地力E"
+      }
+    }
+  },
+  "Arca": {
+    "name_on_csv": "Arca",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力E",
+        "hard_tier": "地力E"
+      }
+    }
+  },
+  "encounter": {
+    "name_on_csv": "encounter",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力E",
+        "hard_tier": "地力E"
+      }
+    }
+  },
+  "Raspberry Railgun": {
+    "name_on_csv": "Raspberry Railgun",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力E",
+        "hard_tier": "地力E"
+      }
+    }
+  },
+  "Carry Me Away": {
+    "name_on_csv": "Carry Me Away",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力E",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "LIGHTNING STRIKES": {
+    "name_on_csv": "LIGHTNING STRIKES",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力E",
+        "hard_tier": "地力E"
+      },
+      "leggendaria": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "BIGソムタム": {
+    "name_on_csv": "BIGソムタム",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力E",
+        "hard_tier": "地力E"
+      }
+    }
+  },
+  "glacia": {
+    "name_on_csv": "glacia",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力E",
+        "hard_tier": "地力E"
+      }
+    }
+  },
+  "Hat Surprise (Season 2)": {
+    "name_on_csv": "Hat Surprise (Season 2)",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力E",
+        "hard_tier": "地力E"
+      }
+    }
+  },
+  "KING": {
+    "name_on_csv": "KING",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力E",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "JUSTICE/GUILTY feat. Nana Takahashi & 709sec.": {
+    "name_on_csv": "JUSTICE/GUILTY feat. Nana Takahashi & 709sec.",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力E",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "Sirius": {
+    "name_on_csv": "Sirius",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力E",
+        "hard_tier": "地力E"
+      }
+    }
+  },
+  "The Onlyonez": {
+    "name_on_csv": "The Onlyonez",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力E",
+        "hard_tier": "個人差E"
+      }
+    }
+  },
+  "フォニイ": {
+    "name_on_csv": "フォニイ",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力E",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "《PL|RAYER》": {
+    "name_on_csv": "《PL|RAYER》",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力E",
+        "hard_tier": "地力E"
+      }
+    }
+  },
+  "灼熱 Lost Summer Dayz": {
+    "name_on_csv": "灼熱 Lost Summer Dayz",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力E",
+        "hard_tier": "個人差B+"
+      }
+    }
+  },
+  "Gimme a Big Beat(青龍 Remix)": {
+    "name_on_csv": "Gimme a Big Beat(青龍 Remix)",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力E",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "King of Tribe": {
+    "name_on_csv": "King of Tribe",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力E",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "Lisa-RICCIA": {
+    "name_on_csv": "Lisa-RICCIA",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力E",
+        "hard_tier": "地力E"
+      },
+      "leggendaria": {
+        "nomal_tier": "地力S",
+        "hard_tier": "地力S+"
+      }
+    }
+  },
+  "V": {
+    "name_on_csv": "V",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "桜": {
+    "name_on_csv": "桜",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差D",
+        "hard_tier": "個人差C"
+      }
+    }
+  },
+  "AA": {
+    "name_on_csv": "AA",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "Scripted Connection⇒ A mix": {
+    "name_on_csv": "Scripted Connection⇒ A mix",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "個人差C"
+      },
+      "leggendaria": {
+        "nomal_tier": "個人差A",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "Scripted Connection⇒ H mix": {
+    "name_on_csv": "Scripted Connection⇒ H mix",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "garden": {
+    "name_on_csv": "garden",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "個人差D",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "カゴノトリ～弐式～": {
+    "name_on_csv": "カゴノトリ～弐式～",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力E"
+      }
+    }
+  },
+  "華蝶風雪": {
+    "name_on_csv": "華蝶風雪",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "FIRE FIRE": {
+    "name_on_csv": "FIRE FIRE",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "電人、暁に斃れる。": {
+    "name_on_csv": "電人、暁に斃れる。",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "Fascination MAXX": {
+    "name_on_csv": "Fascination MAXX",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差D",
+        "hard_tier": "個人差S"
+      }
+    }
+  },
+  "oratio": {
+    "name_on_csv": "oratio",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "Go Beyond!!": {
+    "name_on_csv": "Go Beyond!!",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力S+"
+      }
+    }
+  },
+  "Kung-fu Empire": {
+    "name_on_csv": "Kung-fu Empire",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "SOLID STATE SQUAD": {
+    "name_on_csv": "SOLID STATE SQUAD",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      },
+      "leggendaria": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "eRAseRmOToRpHAntOM": {
+    "name_on_csv": "eRAseRmOToRpHAntOM",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差D",
+        "hard_tier": "個人差C"
+      }
+    }
+  },
+  "mosaic": {
+    "name_on_csv": "mosaic",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差D",
+        "hard_tier": "個人差E"
+      }
+    }
+  },
+  "ワルツ第17番 ト短調\"大犬のワルツ\"": {
+    "name_on_csv": "ワルツ第17番 ト短調”大犬のワルツ”",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差D",
+        "hard_tier": "個人差B"
+      }
+    }
+  },
+  "ALBIDA": {
+    "name_on_csv": "ALBIDA",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "Broken": {
+    "name_on_csv": "Broken",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "fffff": {
+    "name_on_csv": "fffff",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "The Sampling Paradise": {
+    "name_on_csv": "The Sampling Paradise",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "Thunderbolt": {
+    "name_on_csv": "Thunderbolt",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "恋する☆宇宙戦争っ！！": {
+    "name_on_csv": "恋する☆宇宙戦争っ！！",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力C"
+      },
+      "leggendaria": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "聖人の塔": {
+    "name_on_csv": "聖人の塔",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力B+"
+      },
+      "leggendaria": {
+        "nomal_tier": "地力S+",
+        "hard_tier": "地力S+"
+      }
+    }
+  },
+  "GAIA": {
+    "name_on_csv": "GAIA",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "True Blue": {
+    "name_on_csv": "True Blue",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "狂イ咲ケ焔ノ華": {
+    "name_on_csv": "狂イ咲ケ焔ノ華",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "即席！脳直★ミュージックシステム": {
+    "name_on_csv": "即席！脳直★ミュージックシステム",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "Feel The Beat": {
+    "name_on_csv": "Feel The Beat",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力C"
+      },
+      "leggendaria": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力S+"
+      }
+    }
+  },
+  "PUNISHER": {
+    "name_on_csv": "PUNISHER",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "ÆTHER": {
+    "name_on_csv": "ATHER",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力D",
+        "hard_tier": "個人差C"
+      }
+    }
+  },
+  "Beat Radiance": {
+    "name_on_csv": "Beat Radiance",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "Say YEEEAHH": {
+    "name_on_csv": "Say YEEEAHH",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "SpaceLand☆TOYBOX": {
+    "name_on_csv": "SpaceLand☆TOYBOX",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "The Least 100sec": {
+    "name_on_csv": "The Least 100sec",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "TIEFSEE": {
+    "name_on_csv": "TIEFSEE",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "ZZ": {
+    "name_on_csv": "ZZ",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "表裏一体!?怪盗いいんちょの悩み♥": {
+    "name_on_csv": "表裏一体！？怪盗いいんちょの悩み",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力C"
+      },
+      "leggendaria": {
+        "nomal_tier": "地力S",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "Highcharge Divolt": {
+    "name_on_csv": "Highcharge Divolt",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "POSSESSION": {
+    "name_on_csv": "POSSESSION",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "個人差C"
+      }
+    }
+  },
+  "紫陽花 -AZISAI-": {
+    "name_on_csv": "紫陽花 -AZISAI-",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      },
+      "leggendaria": {
+        "nomal_tier": "地力A",
+        "hard_tier": "個人差S"
+      }
+    }
+  },
+  "Rave Cannon": {
+    "name_on_csv": "Rave Cannon",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "Umbral": {
+    "name_on_csv": "Umbral",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "九尾狐夜行": {
+    "name_on_csv": "九尾狐夜行",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "〆": {
+    "name_on_csv": "〆",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "刃図羅": {
+    "name_on_csv": "刃図羅",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "Caterpillar": {
+    "name_on_csv": "Caterpillar",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差D",
+        "hard_tier": "個人差C"
+      }
+    }
+  },
+  "Nothing but Theory": {
+    "name_on_csv": "Nothing but Theory",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "Persephone": {
+    "name_on_csv": "Persephone",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "Rampage": {
+    "name_on_csv": "Rampage",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "Catch Our Fire!": {
+    "name_on_csv": "Catch Our Fire!",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "Drastic Dramatic": {
+    "name_on_csv": "Drastic Dramatic",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "DRUNK MONKY": {
+    "name_on_csv": "DRUNK MONKY",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "EVANESCENT": {
+    "name_on_csv": "EVANESCENT",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "Trill auf G": {
+    "name_on_csv": "Trill auf G",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "最小三倍完全数": {
+    "name_on_csv": "最小三倍完全数",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "Double Dribble": {
+    "name_on_csv": "Double Dribble",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "Matt Silver": {
+    "name_on_csv": "Matt Silver",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "Megalara Garuda": {
+    "name_on_csv": "Megalara Garuda",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "Pārvatī": {
+    "name_on_csv": "Parvati",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "Fire Beat": {
+    "name_on_csv": "Fire Beat",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差D",
+        "hard_tier": "個人差D"
+      }
+    }
+  },
+  "魔法のかくれんぼ": {
+    "name_on_csv": "魔法のかくれんぼ",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差D",
+        "hard_tier": "個人差B"
+      }
+    }
+  },
+  "Fegrix": {
+    "name_on_csv": "Fegrix",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "Silver Bullet": {
+    "name_on_csv": "Silver Bullet",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "天邪鬼": {
+    "name_on_csv": "天邪鬼",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "グッバイ宣言": {
+    "name_on_csv": "グッバイ宣言",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "Meissa": {
+    "name_on_csv": "Meissa",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "No Border": {
+    "name_on_csv": "No Border",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "ONE AND ONLY": {
+    "name_on_csv": "ONE AND ONLY",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "神のシナリオ": {
+    "name_on_csv": "神のシナリオ",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "個人差C"
+      }
+    }
+  },
+  "#CMFLG": {
+    "name_on_csv": "#CMFLG",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "dica dica": {
+    "name_on_csv": "dica dica",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差D",
+        "hard_tier": "個人差C"
+      }
+    }
+  },
+  "ACTØ": {
+    "name_on_csv": "ACT0",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "BLAZING_LAZER": {
+    "name_on_csv": "BLAZING_LAZER",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "Dahlia": {
+    "name_on_csv": "Dahlia",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "frequent": {
+    "name_on_csv": "frequent",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "Out of Control": {
+    "name_on_csv": "Out of Control",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "Stereo Beasts": {
+    "name_on_csv": "Stereo Beasts",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "終焔のClaudia": {
+    "name_on_csv": "終焔のClaudia",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "Aqvion": {
+    "name_on_csv": "Aqvion",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "Bring The Fire": {
+    "name_on_csv": "Bring The Fire",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "SISYPHUS": {
+    "name_on_csv": "SISYPHUS",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差D",
+        "hard_tier": "個人差C"
+      }
+    }
+  },
+  "Astra Blaze": {
+    "name_on_csv": "Astra Blaze",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "Begin": {
+    "name_on_csv": "Begin",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "Disco Killer Music Lover": {
+    "name_on_csv": "Disco Killer Music Lover",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "HyperTwist": {
+    "name_on_csv": "HyperTwist",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "RALLY '25": {
+    "name_on_csv": "RALLY '25",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "RIZING-GAMERS.": {
+    "name_on_csv": "RIZING-GAMERS.",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "かわいいだけじゃだめですか？": {
+    "name_on_csv": "かわいいだけじゃだめですか？",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "ベンガル vs. アムール Battle": {
+    "name_on_csv": "ベンガル vs. アムール Battle",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力D",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "PLEASE DON'T GO": {
+    "name_on_csv": "PLEASE DON'T GO",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差C",
+        "hard_tier": "個人差C"
+      }
+    }
+  },
+  "spiral galaxy": {
+    "name_on_csv": "spiral galaxy",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "CaptivAte～浄化～": {
+    "name_on_csv": "CaptivAte～浄化～",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "rage against usual": {
+    "name_on_csv": "rage against usual",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "個人差A+"
+      }
+    }
+  },
+  "Sense 2007": {
+    "name_on_csv": "Sense 2007",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差C",
+        "hard_tier": "個人差B"
+      }
+    }
+  },
+  "華爛漫-Flowers-": {
+    "name_on_csv": "華爛漫 -Flowers-",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "Arabian Rave Night": {
+    "name_on_csv": "Arabian Rave Night",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "THANK YOU FOR PLAYING": {
+    "name_on_csv": "THANK YOU FOR PLAYING",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "thunder HOUSE NATION Remix": {
+    "name_on_csv": "thunder HOUSE NATION Remix",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "DOMINION": {
+    "name_on_csv": "DOMINION",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "Evans": {
+    "name_on_csv": "Evans",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "GOLDEN CROSS": {
+    "name_on_csv": "GOLDEN CROSS",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "New Castle Legions": {
+    "name_on_csv": "New Castle Legions",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差C",
+        "hard_tier": "個人差B"
+      }
+    }
+  },
+  "NNRT": {
+    "name_on_csv": "NNRT",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "WONDER WALKER": {
+    "name_on_csv": "WONDER WALKER",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "子供の落書き帳": {
+    "name_on_csv": "子供の落書き帳",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "DAY DREAM": {
+    "name_on_csv": "DAY DREAM",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "個人差A"
+      }
+    }
+  },
+  "Sol Cosine Job 2": {
+    "name_on_csv": "Sol Cosine Job 2",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "シュレーディンガーの猫": {
+    "name_on_csv": "シュレーディンガーの猫",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "トリカゴノ鳳凰": {
+    "name_on_csv": "トリカゴノ鳳凰",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "Ancient Scapes": {
+    "name_on_csv": "Ancient Scapes",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      },
+      "leggendaria": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "DARK LEGACY": {
+    "name_on_csv": "DARK LEGACY",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "Idola": {
+    "name_on_csv": "Idola",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "Last Dance": {
+    "name_on_csv": "Last Dance",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "疾風迅雷": {
+    "name_on_csv": "疾風迅雷",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力B"
+      },
+      "leggendaria": {
+        "nomal_tier": "地力S+",
+        "hard_tier": "地力S+"
+      }
+    }
+  },
+  "旋律のドグマ～Misérables～": {
+    "name_on_csv": "旋律のドグマ～Miserables～",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "Adularia": {
+    "name_on_csv": "Adularia",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差C",
+        "hard_tier": "個人差D"
+      }
+    }
+  },
+  "MAD ATTACK": {
+    "name_on_csv": "MAD ATTACK",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "個人差C",
+        "hard_tier": "個人差B+"
+      }
+    }
+  },
+  "海神": {
+    "name_on_csv": "海神",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差C",
+        "hard_tier": "個人差C"
+      },
+      "leggendaria": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "個人差A"
+      }
+    }
+  },
+  "Cosmic Cat": {
+    "name_on_csv": "Cosmic Cat",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "EBONY & IVORY": {
+    "name_on_csv": "EBONY & IVORY",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力B"
+      },
+      "leggendaria": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "FANTASTIC THREE": {
+    "name_on_csv": "FANTASTIC THREE",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "個人差B"
+      }
+    }
+  },
+  "Gravigazer": {
+    "name_on_csv": "Gravigazer",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "Invitation from Mr.C": {
+    "name_on_csv": "Invitation from Mr.C",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "個人差B"
+      }
+    }
+  },
+  "NEO GENERATOR SEVEN": {
+    "name_on_csv": "NEO GENERATOR SEVEN",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "Sounds Of Summer": {
+    "name_on_csv": "Sounds Of Summer",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "We're so Happy(P*Light Remix) IIDX ver.": {
+    "name_on_csv": "We're so Happy (P*Light Remix) IIDX ver.",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "それは花火のような恋": {
+    "name_on_csv": "それは花火のような恋",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "夏色DIARY - L.E.D.-G STYLE MIX -": {
+    "name_on_csv": "夏色DIARY - L.E.D.-G STYLE MIX -",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "BLUE MIRAGE": {
+    "name_on_csv": "BLUE MIRAGE",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差C",
+        "hard_tier": "個人差A"
+      }
+    }
+  },
+  "Rave*it!! Rave*it!!": {
+    "name_on_csv": "Rave*it!! Rave*it!!",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差C",
+        "hard_tier": "個人差A+"
+      }
+    }
+  },
+  "Godspeed": {
+    "name_on_csv": "Godspeed",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "Konzert V": {
+    "name_on_csv": "Konzert V",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "M4K3 1T B0UNC3": {
+    "name_on_csv": "M4K3 1T B0UNC3",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "Nightmare before oversleep": {
+    "name_on_csv": "Nightmare before oversleep",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "めいさいアイドル☆あいむちゃん♪": {
+    "name_on_csv": "めいさいアイドル☆あいむちゃん♪",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "Amazing Mirage": {
+    "name_on_csv": "Amazing Mirage",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "FUZIN RIZIN": {
+    "name_on_csv": "FUZIN RIZIN",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "RAIN": {
+    "name_on_csv": "RAIN",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "SAY BAY": {
+    "name_on_csv": "SAY BAY",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "イザナミノナゲキ": {
+    "name_on_csv": "イザナミノナゲキ",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "TOGAKUSHI": {
+    "name_on_csv": "TOGAKUSHI",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差C",
+        "hard_tier": "個人差C"
+      }
+    }
+  },
+  "dAuntl3ss": {
+    "name_on_csv": "dAuntl3ss",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "Dr. Chemical & Killing Machine": {
+    "name_on_csv": "Dr. Chemical & Killing Machine",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "L.F.O": {
+    "name_on_csv": "L.F.O",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "Lethal Weapon": {
+    "name_on_csv": "Lethal Weapon",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "LOST TECHNOLOGIE": {
+    "name_on_csv": "LOST TECHNOLOGIE",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "THE DAY OF JUBILATIONS": {
+    "name_on_csv": "THE DAY OF JUBILATIONS",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "龍王の霊廟(Mausoleum Of The Primal Dragon)": {
+    "name_on_csv": "龍王の霊廟(Mausoleum Of The Primal Dragon)",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "Ember Lights": {
+    "name_on_csv": "Ember Lights",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "個人差C",
+        "hard_tier": "個人差B"
+      }
+    }
+  },
+  "ONIGOROSHI": {
+    "name_on_csv": "ONIGOROSHI",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差C",
+        "hard_tier": "個人差B"
+      }
+    }
+  },
+  "AKASHIC BREAK": {
+    "name_on_csv": "AKASHIC BREAK",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "Friction[!]Function": {
+    "name_on_csv": "Friction[!]Function",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "TECHNO Style Essentials": {
+    "name_on_csv": "TECHNO Style Essentials",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "Rave Patroller": {
+    "name_on_csv": "Rave Patroller",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "Vinculum stellarum": {
+    "name_on_csv": "Vinculum stellarum",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "Ypsilon": {
+    "name_on_csv": "Ypsilon",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力D"
+      }
+    }
+  },
+  "深淵に捧ぐレクイエム": {
+    "name_on_csv": "深淵に捧ぐレクイエム",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "Level 2": {
+    "name_on_csv": "Level 2",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差C",
+        "hard_tier": "個人差B+"
+      }
+    }
+  },
+  "innocent revolver": {
+    "name_on_csv": "innocent revolver",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "rommmo": {
+    "name_on_csv": "rommmo",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "SOLID STATE SQUAD -RISEN RELIC REMIX-": {
+    "name_on_csv": "SOLID STATE SQUAD -RISEN RELIC REMIX-",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "Viridian": {
+    "name_on_csv": "Viridian",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "新宝島": {
+    "name_on_csv": "新宝島",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "スーパー戦湯ババンバーン": {
+    "name_on_csv": "スーパー戦湯ババンバーン",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "Aftermath": {
+    "name_on_csv": "Aftermath",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "LIVE DRIVING!! feat. 花たん": {
+    "name_on_csv": "LIVE DRIVING!! feat. 花たん",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "Push on Beats!～音ゲの国のeX-ストリーマー～": {
+    "name_on_csv": "Push on Beats!～音ゲの国のeX-ストリーマー～",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "禊": {
+    "name_on_csv": "禊",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "ハイテックトキオ": {
+    "name_on_csv": "ハイテックトキオ",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "個人差C",
+        "hard_tier": "個人差B"
+      }
+    }
+  },
+  "Always We Trust In You": {
+    "name_on_csv": "Always We Trust In You",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "Chaotoxin": {
+    "name_on_csv": "Chaotoxin",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "RINИE": {
+    "name_on_csv": "RINNE",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "Super Freak": {
+    "name_on_csv": "Super Freak",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "Ōu Legends": {
+    "name_on_csv": "Ou Legends",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "神っぽいな": {
+    "name_on_csv": "神っぽいな",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "B.O.D.Y.": {
+    "name_on_csv": "B.O.D.Y.",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差C",
+        "hard_tier": "個人差C"
+      }
+    }
+  },
+  "Ghost Pulse": {
+    "name_on_csv": "Ghost Pulse",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "Million Dollar": {
+    "name_on_csv": "Million Dollar",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "Seven Times Four": {
+    "name_on_csv": "Seven Times Four",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "Sword of Vengeance": {
+    "name_on_csv": "Sword of Vengeance",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "電光": {
+    "name_on_csv": "電光",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "GAME ON": {
+    "name_on_csv": "GAME ON",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差C",
+        "hard_tier": "個人差B"
+      }
+    }
+  },
+  "COSMIC V3LOCITY": {
+    "name_on_csv": "COSMIC V3LOCITY",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "destination": {
+    "name_on_csv": "destination",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "DIVINE JUDGEMENT": {
+    "name_on_csv": "DIVINE JUDGEMENT",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "EX-MASSIVE FIGHTER": {
+    "name_on_csv": "EX-MASSIVE FIGHTER",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "EYE OF THE HEAVEN": {
+    "name_on_csv": "EYE OF THE HEAVEN",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "FlyAway": {
+    "name_on_csv": "FlyAway",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "Here We Go Now": {
+    "name_on_csv": "Here We Go Now",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "MARLIN": {
+    "name_on_csv": "MARLIN",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "Mid-Corner (Magic Maker)": {
+    "name_on_csv": "Mid-Corner (Magic Maker)",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "Plazma": {
+    "name_on_csv": "Plazma",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "Roar of Chronos": {
+    "name_on_csv": "Roar of Chronos",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "hora de verdad": {
+    "name_on_csv": "hora de verdad",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差C",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "chaplet -IIDX re:build-": {
+    "name_on_csv": "chaplet -IIDX re:build-",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "Dusk Endir": {
+    "name_on_csv": "Dusk Endir",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "From Human Blood": {
+    "name_on_csv": "From Human Blood",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "Mighty Beat Monsterz": {
+    "name_on_csv": "Mighty Beat Monsterz",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "Space Battleship S4TØ": {
+    "name_on_csv": "Space Battleship S4TO",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "THUNDERSTRIKE": {
+    "name_on_csv": "THUNDERSTRIKE",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "クレッシェンド": {
+    "name_on_csv": "クレッシェンド",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "ビビッド ☆＋＊。キラキライム": {
+    "name_on_csv": "ビビッド ☆+*。キラキライム",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力C",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "MAX 300": {
+    "name_on_csv": "MAX 300",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "個人差B+"
+      }
+    }
+  },
+  "FAKE TIME": {
+    "name_on_csv": "FAKE TIME",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差B",
+        "hard_tier": "個人差C"
+      }
+    }
+  },
+  "Little Little Princess": {
+    "name_on_csv": "Little Little Princess",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "Candy Galy": {
+    "name_on_csv": "Candy Galy",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "THE DEEP STRIKER": {
+    "name_on_csv": "THE DEEP STRIKER",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "Übertreffen": {
+    "name_on_csv": "Ubertreffen",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "PARANOiA ～HADES～": {
+    "name_on_csv": "PARANOiA ～HADES～",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差B",
+        "hard_tier": "個人差A"
+      }
+    }
+  },
+  "ミラージュ・レジデンス": {
+    "name_on_csv": "ミラージュ・レジデンス",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "個人差B",
+        "hard_tier": "個人差B+"
+      }
+    }
+  },
+  "BITTER CHOCOLATE STRIKER": {
+    "name_on_csv": "BITTER CHOCOLATE STRIKER",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "Colorful Cookie": {
+    "name_on_csv": "Colorful Cookie",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "不沈艦CANDY": {
+    "name_on_csv": "不沈艦CANDY",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "Y&Co. is dead or alive": {
+    "name_on_csv": "Y&Co. is dead or alive",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差B",
+        "hard_tier": "個人差S"
+      }
+    }
+  },
+  "Red. by Full Metal Jacket": {
+    "name_on_csv": "Red. by Full Metal Jacket",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差B",
+        "hard_tier": "個人差A"
+      }
+    }
+  },
+  "reunion": {
+    "name_on_csv": "reunion",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "Session 9-Chronicles-": {
+    "name_on_csv": "Session 9 -Chronicles-",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "Watch Out Pt.2": {
+    "name_on_csv": "Watch Out Pt.2",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差B",
+        "hard_tier": "個人差A"
+      }
+    }
+  },
+  "A MINSTREL ～ ver.short-scape ～": {
+    "name_on_csv": "A MINSTREL ～ ver. short-scape ～",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "QUANTUM TELEPORTATION": {
+    "name_on_csv": "QUANTUM TELEPORTATION",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "quaver♪": {
+    "name_on_csv": "quaver♪",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "yellow head joe": {
+    "name_on_csv": "yellow head joe",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "Devilz Staircase": {
+    "name_on_csv": "Devilz Staircase",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "Proof of the existence": {
+    "name_on_csv": "Proof of the existence",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "Timepiece phase II": {
+    "name_on_csv": "Timepiece phase II",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "Valanga": {
+    "name_on_csv": "Valanga",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "たまゆら": {
+    "name_on_csv": "たまゆら",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "龍と少女とデコヒーレンス": {
+    "name_on_csv": "龍と少女とデコヒーレンス",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "アストライアの双皿": {
+    "name_on_csv": "アストライアの双皿",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差B",
+        "hard_tier": "個人差B"
+      }
+    }
+  },
+  "BLUE DRAGON(雷龍RemixIIDX)": {
+    "name_on_csv": "BLUE DRAGON(雷龍RemixIIDX)",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "Close the World feat.a☆ru": {
+    "name_on_csv": "Close the World feat.a☆ru",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      },
+      "leggendaria": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "INSOMNIA": {
+    "name_on_csv": "INSOMNIA",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "ra'am": {
+    "name_on_csv": "ra'am",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "個人差B+"
+      }
+    }
+  },
+  "轟け！恋のビーンボール！！": {
+    "name_on_csv": "轟け！恋のビーンボール！！",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "廿": {
+    "name_on_csv": "廿",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力B",
+        "hard_tier": "個人差B+"
+      }
+    }
+  },
+  "VOX UP": {
+    "name_on_csv": "VOX UP",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差B",
+        "hard_tier": "個人差A+"
+      }
+    }
+  },
+  "Broken Sword": {
+    "name_on_csv": "Broken Sword",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "cinder": {
+    "name_on_csv": "cinder",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "entelecheia": {
+    "name_on_csv": "entelecheia",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "GUILTY": {
+    "name_on_csv": "GUILTY",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "Monopole.": {
+    "name_on_csv": "Monopole.",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "少年は空を辿る": {
+    "name_on_csv": "少年は空を辿る",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "リリーゼと炎龍レーヴァテイン": {
+    "name_on_csv": "リリーゼと炎龍レーヴァテイン",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "Flashes": {
+    "name_on_csv": "Flashes",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差B",
+        "hard_tier": "地力A"
+      },
+      "leggendaria": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "IMPLANTATION": {
+    "name_on_csv": "IMPLANTATION",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差B",
+        "hard_tier": "個人差B"
+      }
+    }
+  },
+  "CODE:1 [revision1.0.1]": {
+    "name_on_csv": "CODE:1 [revision1.0.1]",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "Super Duper Racers": {
+    "name_on_csv": "Super Duper Racers",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "refrain": {
+    "name_on_csv": "refrain",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "Welcome": {
+    "name_on_csv": "Welcome",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "X": {
+    "name_on_csv": "X",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "AO-1": {
+    "name_on_csv": "AO-1",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "OTENAMI Hurricane": {
+    "name_on_csv": "OTENAMI Hurricane",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "Sky High": {
+    "name_on_csv": "Sky High",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "Super Rush": {
+    "name_on_csv": "Super Rush",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "童話回廊": {
+    "name_on_csv": "童話回廊",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "#MAGiCVLGiRL_TRVP_B3VTZ": {
+    "name_on_csv": "#MAGiCVLGiRL_TRVP_B3VTZ",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "焱影": {
+    "name_on_csv": "火影",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差B",
+        "hard_tier": "個人差B+"
+      }
+    }
+  },
+  "AA -rebuild-": {
+    "name_on_csv": "AA -rebuild-",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "DropZ-Line-": {
+    "name_on_csv": "DropZ-Line-",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "Illusionary Waterlily": {
+    "name_on_csv": "Illusionary Waterlily",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "NITROUS CANNON": {
+    "name_on_csv": "NITROUS CANNON",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "Slipstream": {
+    "name_on_csv": "Slipstream",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "Xperanza": {
+    "name_on_csv": "Xperanza",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "神謳 -RESONANCE-": {
+    "name_on_csv": "神謳 -RESONANCE-",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "Papilio ulysses": {
+    "name_on_csv": "Papilio ulysses",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差B",
+        "hard_tier": "個人差B+"
+      }
+    }
+  },
+  "GENE": {
+    "name_on_csv": "GENE",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      },
+      "leggendaria": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "HARD BRAIN": {
+    "name_on_csv": "HARD BRAIN",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "KILL EACH OTHER": {
+    "name_on_csv": "KILL EACH OTHER",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "ruin of opals": {
+    "name_on_csv": "ruin of opals",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "Xlø": {
+    "name_on_csv": "Xlo",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "LASER CRUSTER (IGNITE REMIX)": {
+    "name_on_csv": "LASER CRUSTER (IGNITE REMIX)",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "T-REX vs Velociraptor (In the Far east euphoria)": {
+    "name_on_csv": "T-REX vs Velociraptor (In the Far east euphoria)",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "魅惑のYUMMYスイーツ": {
+    "name_on_csv": "魅惑のYUMMYスイーツ",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "ASIAN VIRTUAL REALITIES (MELTING TOGETHER IN DAZZLING DARKNESS)": {
+    "name_on_csv": "ASIAN VIRTUAL REALITIES (MELTING TOGETHER IN DAZZLING DARKNESS)",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "Burning Flame": {
+    "name_on_csv": "Burning Flame",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "DUAL STRIKER": {
+    "name_on_csv": "DUAL STRIKER",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "Vitrum": {
+    "name_on_csv": "Vitrum",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "Angel's Ladder": {
+    "name_on_csv": "Angel's Ladder",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "Arkadia": {
+    "name_on_csv": "Arkadia",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "Flying Castle": {
+    "name_on_csv": "Flying Castle",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "One for All": {
+    "name_on_csv": "One for All",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "Smalt #28598F": {
+    "name_on_csv": "Smalt #28598F",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "Triple Cross": {
+    "name_on_csv": "Triple Cross",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "逆月": {
+    "name_on_csv": "逆月",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差B",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "雪上断火": {
+    "name_on_csv": "雪上断火",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差B",
+        "hard_tier": "個人差B+"
+      }
+    }
+  },
+  "BIGWAVERS": {
+    "name_on_csv": "BIGWAVERS",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "I": {
+    "name_on_csv": "I",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "MAX 360": {
+    "name_on_csv": "MAX 360",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "24h Endurance Race": {
+    "name_on_csv": "24h Endurance Race",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "個人差B+"
+      }
+    }
+  },
+  "儚キ戀ノ幻想譚": {
+    "name_on_csv": "儚キ戀ノ幻想譚",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "恋愛＝精度×認識力": {
+    "name_on_csv": "恋愛＝精度×認識力",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "個人差A+"
+      }
+    }
+  },
+  "Caldwell 99": {
+    "name_on_csv": "Caldwell 99",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "個人差B",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "INHERITANCE": {
+    "name_on_csv": "INHERITANCE",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "MAXIMUM CHEAT GIRL": {
+    "name_on_csv": "MAXIMUM CHEAT GIRL",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "The Last Apocalypse": {
+    "name_on_csv": "The Last Apocalypse",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "Vermilion Carol": {
+    "name_on_csv": "Vermilion Carol",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "電腦都市": {
+    "name_on_csv": "電腦都市",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "未完成ノ蒸氣驅動乙女": {
+    "name_on_csv": "未完成ノ蒸氣驅動乙女",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "摩天楼": {
+    "name_on_csv": "摩天楼",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差B",
+        "hard_tier": "個人差B"
+      }
+    }
+  },
+  "Lightspeed": {
+    "name_on_csv": "Lightspeed",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "u gotta beat": {
+    "name_on_csv": "u gotta beat",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "Without Heaven": {
+    "name_on_csv": "Without Heaven",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "1116": {
+    "name_on_csv": "1116",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "アラビアン ハイパー ナイト": {
+    "name_on_csv": "アラビアン ハイパー ナイト",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "Regina vespaE": {
+    "name_on_csv": "Regina vespaE",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "個人差B+"
+      }
+    }
+  },
+  "ラブコメトキドキシリアス": {
+    "name_on_csv": "ラブコメトキドキシリアス",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "One More Lovely": {
+    "name_on_csv": "One More Lovely",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力C"
+      }
+    }
+  },
+  "Rise'n Beauty": {
+    "name_on_csv": "Rise'n Beauty",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "Be quiet": {
+    "name_on_csv": "Be quiet",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "個人差B+",
+        "hard_tier": "個人差A+"
+      }
+    }
+  },
+  "Twelfth Style": {
+    "name_on_csv": "Twelfth Style",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "NEW GENERATION-もう、お前しか見えない-": {
+    "name_on_csv": "NEW GENERATION -もう、お前しか見えない-",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "Marie Antoinette": {
+    "name_on_csv": "Marie Antoinette",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "個人差B+",
+        "hard_tier": "個人差B+"
+      }
+    }
+  },
+  "Dances with Snow Fairies": {
+    "name_on_csv": "Dances with Snow Fairies",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力B"
+      },
+      "leggendaria": {
+        "nomal_tier": "地力S",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "The Limbo": {
+    "name_on_csv": "The Limbo",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力B"
+      },
+      "leggendaria": {
+        "nomal_tier": "地力S+",
+        "hard_tier": "地力S+"
+      }
+    }
+  },
+  "YAKSHA": {
+    "name_on_csv": "YAKSHA",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "Snake Stick": {
+    "name_on_csv": "Snake Stick",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差B+",
+        "hard_tier": "個人差A+"
+      }
+    }
+  },
+  "JOMANDA": {
+    "name_on_csv": "JOMANDA",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "個人差A"
+      }
+    }
+  },
+  "neu": {
+    "name_on_csv": "neu",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "SYNC-ANTHEM": {
+    "name_on_csv": "SYNC-ANTHEM",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力B"
+      }
+    }
+  },
+  "キャトられ♥恋はモ～モク": {
+    "name_on_csv": "キャトられ恋はモ～モク",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT)": {
+    "name_on_csv": "†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT)",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "Hollywood Galaxy": {
+    "name_on_csv": "Hollywood Galaxy",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差B+",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "STULTI": {
+    "name_on_csv": "STULTI",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差B+",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "ALBA -黎明-": {
+    "name_on_csv": "ALBA -黎明-",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "個人差A"
+      }
+    }
+  },
+  "fallen leaves -IIDX edition-": {
+    "name_on_csv": "fallen leaves -IIDX edition-",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "Shooting Fireball": {
+    "name_on_csv": "Shooting Fireball",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "TOXIC VIBRATION": {
+    "name_on_csv": "TOXIC VIBRATION",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "Grand Chariot": {
+    "name_on_csv": "Grand Chariot",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "STARLIGHT DANCEHALL": {
+    "name_on_csv": "STARLIGHT DANCEHALL",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "StrayedCatz": {
+    "name_on_csv": "StrayedCatz",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "DIAMOND CROSSING": {
+    "name_on_csv": "DIAMOND CROSSING",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差B+",
+        "hard_tier": "個人差A+"
+      }
+    }
+  },
+  "199024club -Re:BounceKiller-": {
+    "name_on_csv": "199024club -Re:BounceKiller-",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差B+",
+        "hard_tier": "個人差A"
+      }
+    }
+  },
+  "Snakey Kung-fu": {
+    "name_on_csv": "Snakey Kung-fu",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "個人差B+"
+      }
+    }
+  },
+  "津軽雪": {
+    "name_on_csv": "津軽雪",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "ANCHOR": {
+    "name_on_csv": "ANCHOR",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "Antigravity": {
+    "name_on_csv": "Antigravity",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "個人差A"
+      }
+    }
+  },
+  "DEADHEAT": {
+    "name_on_csv": "DEADHEAT",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "O/D*20": {
+    "name_on_csv": "O/D*20",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "東京神話": {
+    "name_on_csv": "東京神話",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "Boomy and The Boost": {
+    "name_on_csv": "Boomy and The Boost",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差B+",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "Mächö Mönky": {
+    "name_on_csv": "Macho Monky",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "Unbelief": {
+    "name_on_csv": "Unbelief",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "Visterhv": {
+    "name_on_csv": "Visterhv",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "抱きしめてモナムール": {
+    "name_on_csv": "抱きしめてモナムール",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "ORCA": {
+    "name_on_csv": "ORCA",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "Inferno of Fomalhaut": {
+    "name_on_csv": "Inferno of Fomalhaut",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差B+",
+        "hard_tier": "個人差A"
+      }
+    }
+  },
+  "Empire of Fury": {
+    "name_on_csv": "Empire of Fury",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "水鏡の異界": {
+    "name_on_csv": "水鏡の異界",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差B+",
+        "hard_tier": "個人差A"
+      }
+    }
+  },
+  "GRAVITON": {
+    "name_on_csv": "GRAVITON",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "PLASMA SOUL NIGHT feat. Nana Takahashi / 709sec.": {
+    "name_on_csv": "PLASMA SOUL NIGHT feat. Nana Takahashi / 709sec.",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "ミュージック・アワー": {
+    "name_on_csv": "ミュージック・アワー",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "GiGaGaHell": {
+    "name_on_csv": "GiGaGaHell",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差B+",
+        "hard_tier": "個人差A+"
+      }
+    }
+  },
+  "kors k's How to make OTOGE CORE 「LONG」": {
+    "name_on_csv": "kors k's How to make OTOGE CORE 「LONG」",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "ちょえちょえまぎか": {
+    "name_on_csv": "ちょえちょえまぎか",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "ぞうしょく！？マイデンティティ": {
+    "name_on_csv": "ぞうしょく！？マイデンティティ",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "Peaktime Booster": {
+    "name_on_csv": "Peaktime Booster",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差B+",
+        "hard_tier": "個人差A"
+      }
+    }
+  },
+  "Resonant": {
+    "name_on_csv": "Resonant",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "Submerge Serenade": {
+    "name_on_csv": "Submerge Serenade",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "Xb10r": {
+    "name_on_csv": "Xb10r",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "今宵、ロマンス横丁。": {
+    "name_on_csv": "今宵、ロマンス横丁。",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "寝起きヤシの木": {
+    "name_on_csv": "寝起きヤシの木",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "個人差A"
+      }
+    }
+  },
+  "灼熱Beach Side Bunny (かめりあ's \"Summertime D'n'B\" Remix)": {
+    "name_on_csv": "灼熱Beach Side Bunny (かめりあ's \"Summertime D'n'B\" Remix)",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差B+",
+        "hard_tier": "個人差A"
+      }
+    }
+  },
+  "Drop Syndicate": {
+    "name_on_csv": "Drop Syndicate",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "Flämingo": {
+    "name_on_csv": "Flamingo",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "BitRacer": {
+    "name_on_csv": "BitRacer",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "UNDO THE NIGHT": {
+    "name_on_csv": "UNDO THE NIGHT",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "個人差A"
+      }
+    }
+  },
+  "2 Be Continued": {
+    "name_on_csv": "2 Be Continued",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力B+",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "ピアノ協奏曲第1番\"蠍火\"": {
+    "name_on_csv": "ピアノ協奏曲第１番”蠍火”",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差A",
+        "hard_tier": "個人差A"
+      }
+    }
+  },
+  "冥": {
+    "name_on_csv": "冥",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力S+"
+      }
+    }
+  },
+  "INAZUMA": {
+    "name_on_csv": "INAZUMA",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "個人差A",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "Ganymede": {
+    "name_on_csv": "Ganymede",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "waxing and wanding": {
+    "name_on_csv": "waxing and wanding",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "Blue Rain": {
+    "name_on_csv": "Blue Rain",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "four pieces of heaven": {
+    "name_on_csv": "four pieces of heaven",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "MENDES": {
+    "name_on_csv": "MENDES",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "STEEL NEEDLE": {
+    "name_on_csv": "STEEL NEEDLE",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "個人差A",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "Secrets": {
+    "name_on_csv": "Secrets",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "3y3s": {
+    "name_on_csv": "3y3s",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差A",
+        "hard_tier": "地力S+"
+      }
+    }
+  },
+  "Bad Maniacs": {
+    "name_on_csv": "Bad Maniacs",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "EXUSIA": {
+    "name_on_csv": "EXUSIA",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "G59": {
+    "name_on_csv": "G59",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "quell～the seventh slave～": {
+    "name_on_csv": "quell～the seventh slave～",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "AIR RAID FROM THA UNDAGROUND": {
+    "name_on_csv": "AIR RAID FROM THA UNDAGROUND",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "個人差A",
+        "hard_tier": "個人差B+"
+      }
+    }
+  },
+  "HAERETICUS": {
+    "name_on_csv": "HAERETICUS",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "君のハートにロックオン": {
+    "name_on_csv": "君のハートにロックオン",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "天空の夜明け": {
+    "name_on_csv": "天空の夜明け",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "仮想空間の旅人たち": {
+    "name_on_csv": "仮想空間の旅人たち",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "音楽": {
+    "name_on_csv": "音楽",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差A",
+        "hard_tier": "個人差A+"
+      }
+    }
+  },
+  "カジノファイヤーことみちゃん": {
+    "name_on_csv": "カジノファイヤーことみちゃん",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "個人差A",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "Elektrick U-Phoria": {
+    "name_on_csv": "Elektrick U-Phoria",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "KAISER PHOENIX": {
+    "name_on_csv": "KAISER PHOENIX",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A+"
+      },
+      "leggendaria": {
+        "nomal_tier": "地力S",
+        "hard_tier": "地力S+"
+      }
+    }
+  },
+  "Verflucht": {
+    "name_on_csv": "Verflucht",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A+"
+      },
+      "leggendaria": {
+        "nomal_tier": "地力S+",
+        "hard_tier": "地力S+"
+      }
+    }
+  },
+  "Miracle 5ympho X": {
+    "name_on_csv": "Miracle 5ympho X",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "個人差A",
+        "hard_tier": "個人差S"
+      }
+    }
+  },
+  "Despair of ELFERIA": {
+    "name_on_csv": "Despair of ELFERIA",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "Devil's Gear": {
+    "name_on_csv": "Devil's Gear",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "Dynamite": {
+    "name_on_csv": "Dynamite",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "個人差A+"
+      }
+    }
+  },
+  "Triple Counter": {
+    "name_on_csv": "Triple Counter",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "Violet Pulse": {
+    "name_on_csv": "Violet Pulse",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "ZEPHYRANTHES": {
+    "name_on_csv": "ZEPHYRANTHES",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "DORNWALD ～Junge～": {
+    "name_on_csv": "DORNWALD ～Junge～",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "GuNGNiR": {
+    "name_on_csv": "GuNGNiR",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A+"
+      },
+      "leggendaria": {
+        "nomal_tier": "地力S+",
+        "hard_tier": "地力S+"
+      }
+    }
+  },
+  "HADES": {
+    "name_on_csv": "HADES",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "Life Is A Game ft.DD\"ナカタ\"Metal\"": {
+    "name_on_csv": "Life Is A Game ft.DD\"ナカタ\"Metal",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "255": {
+    "name_on_csv": "255",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "個人差A+"
+      }
+    }
+  },
+  "Painful Fate": {
+    "name_on_csv": "Painful Fate",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "The Rebellion of Sequencer": {
+    "name_on_csv": "The Rebellion of Sequencer",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "お菓子の王国": {
+    "name_on_csv": "お菓子の王国",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "金野火織の金色提言": {
+    "name_on_csv": "金野火織の金色提言",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "Level One": {
+    "name_on_csv": "Level One",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差A",
+        "hard_tier": "個人差S"
+      }
+    }
+  },
+  "Artist": {
+    "name_on_csv": "Artist",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "BEAT PRISONER": {
+    "name_on_csv": "BEAT PRISONER",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "THE BRAVE MUST DIE": {
+    "name_on_csv": "THE BRAVE MUST DIE",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "TRIUMPH": {
+    "name_on_csv": "TRIUMPH",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "華麗なる大犬円舞曲": {
+    "name_on_csv": "華麗なる大犬円舞曲",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "ピアノ協奏曲第1番\"蠍火\" (BlackY Remix)": {
+    "name_on_csv": "ピアノ協奏曲第1番”蠍火” (BlackY Remix)",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "BLACK or WHITE?": {
+    "name_on_csv": "BLACK or WHITE?",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "COSMIC RAY": {
+    "name_on_csv": "COSMIC RAY",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "LOCUS OF THE TRAVEL": {
+    "name_on_csv": "LOCUS OF THE TRAVEL",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "POLꓘAMAИIA": {
+    "name_on_csv": "POLKAMANIA",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "閠槞彁の願い": {
+    "name_on_csv": "閠槞彁の願い",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "世界の果てに約束の凱歌を -ReUnion-": {
+    "name_on_csv": "世界の果てに約束の凱歌を -ReUnion-",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "伐折羅-vajra-": {
+    "name_on_csv": "伐折羅-vajra-",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "二人ノ廃城幽踊宴": {
+    "name_on_csv": "二人ノ廃城幽踊宴",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "バッド・スイーツ、バッド・ドリーム": {
+    "name_on_csv": "バッド・スイーツ、バッド・ドリーム",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差A",
+        "hard_tier": "個人差A+"
+      }
+    }
+  },
+  "ABSOLUTE EVIL": {
+    "name_on_csv": "ABSOLUTE EVIL",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "ALTERNATOR": {
+    "name_on_csv": "ALTERNATOR",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "烽火連天の刃": {
+    "name_on_csv": "烽火連天の刃",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "個人差A"
+      },
+      "leggendaria": {
+        "nomal_tier": "個人差S",
+        "hard_tier": "地力S+"
+      }
+    }
+  },
+  "Don't believe the hype": {
+    "name_on_csv": "Don't believe the hype",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差A",
+        "hard_tier": "個人差A+"
+      }
+    }
+  },
+  "Purple Perplex": {
+    "name_on_csv": "Purple Perplex",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差A",
+        "hard_tier": "個人差A+"
+      }
+    }
+  },
+  "2 Beasts Unchained": {
+    "name_on_csv": "2 Beasts Unchained",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差A",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "suspicions": {
+    "name_on_csv": "suspicions",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "VOLAQUAS": {
+    "name_on_csv": "VOLAQUAS",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "TECHNOPHOBIA": {
+    "name_on_csv": "TECHNOPHOBIA",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差A",
+        "hard_tier": "個人差A+"
+      }
+    }
+  },
+  "Demon March": {
+    "name_on_csv": "Demon March",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "Cult Invitation": {
+    "name_on_csv": "Cult Invitation",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差A",
+        "hard_tier": "個人差A+"
+      }
+    }
+  },
+  "Cross Fire": {
+    "name_on_csv": "Cross Fire",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "NOIXIA": {
+    "name_on_csv": "NOIXIA",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "Uaigh Gealaí": {
+    "name_on_csv": "Uaigh Gealai",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "uәn": {
+    "name_on_csv": "uen",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "Pinky Happy Crazy": {
+    "name_on_csv": "Pinky Happy Crazy",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差A",
+        "hard_tier": "地力B+"
+      }
+    }
+  },
+  "HEROES": {
+    "name_on_csv": "HEROES",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "個人差A+"
+      }
+    }
+  },
+  "OMEGA": {
+    "name_on_csv": "OMEGA",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "PERFECT GREAT!!": {
+    "name_on_csv": "PERFECT GREAT!!",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "CONTRACT": {
+    "name_on_csv": "CONTRACT",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "Anisakis-somatic mutation type \"Forza\"-": {
+    "name_on_csv": "Anisakis -somatic mutation type\"Forza\"-",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "B4U(BEMANI FOR YOU MIX)": {
+    "name_on_csv": "B4U(BEMANI FOR YOU MIX)",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "Almagest": {
+    "name_on_csv": "Almagest",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "PARADISE LOST": {
+    "name_on_csv": "PARADISE LOST",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "BLACK.by X-Cross Fade": {
+    "name_on_csv": "BLACK.by X-Cross Fade",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差A+",
+        "hard_tier": "個人差S"
+      }
+    }
+  },
+  "TITANS RETURN": {
+    "name_on_csv": "TITANS RETURN",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "個人差A+",
+        "hard_tier": "個人差S"
+      }
+    }
+  },
+  "蛇神": {
+    "name_on_csv": "蛇神",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "個人差A+",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "Saturn": {
+    "name_on_csv": "Saturn",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "Thor's Hammer": {
+    "name_on_csv": "Thor's Hammer",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差A+",
+        "hard_tier": "個人差S+"
+      }
+    }
+  },
+  "ZED": {
+    "name_on_csv": "ZED",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "個人差A+",
+        "hard_tier": "個人差A+"
+      }
+    }
+  },
+  "Zirkfied": {
+    "name_on_csv": "Zirkfied",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差A+",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "HYENA": {
+    "name_on_csv": "HYENA",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "煉獄のエルフェリア": {
+    "name_on_csv": "煉獄のエルフェリア",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "CHRONO DIVER -NORNIR-": {
+    "name_on_csv": "CHRONO DIVER -NORNIR-",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "超青少年ノ為ノ超多幸ナ超古典的超舞曲": {
+    "name_on_csv": "超青少年ノ為ノ超多幸ナ超古典的超舞曲",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "Reflux": {
+    "name_on_csv": "Reflux",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差A+",
+        "hard_tier": "個人差A+"
+      }
+    }
+  },
+  "Blue Spring Express": {
+    "name_on_csv": "Blue Spring Express",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "NZM": {
+    "name_on_csv": "NZM",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "個人差A+"
+      }
+    }
+  },
+  "真 地獄超特急 -HELL or HELL-": {
+    "name_on_csv": "真 地獄超特急 -HELL or HELL-",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差A+",
+        "hard_tier": "個人差A+"
+      }
+    }
+  },
+  "Quakes": {
+    "name_on_csv": "Quakes",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "ECHIDNA": {
+    "name_on_csv": "ECHIDNA",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差A+",
+        "hard_tier": "個人差S"
+      }
+    }
+  },
+  "ChaserXX": {
+    "name_on_csv": "ChaserXX",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "Initiation": {
+    "name_on_csv": "Initiation",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "REVOLVER": {
+    "name_on_csv": "REVOLVER",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "個人差S"
+      }
+    }
+  },
+  "シムルグの目醒め": {
+    "name_on_csv": "シムルグの目醒め",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "The Chase": {
+    "name_on_csv": "The Chase",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差A+",
+        "hard_tier": "個人差S"
+      }
+    }
+  },
+  "CODE:Ø": {
+    "name_on_csv": "CODE:0",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "個人差A+"
+      }
+    }
+  },
+  "voltississimo": {
+    "name_on_csv": "voltississimo",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "CoMAAAAAAA": {
+    "name_on_csv": "CoMAAAAAAA",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "個人差A+",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "Red. by Jack Trance": {
+    "name_on_csv": "Red. by Jack Trance",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差A+",
+        "hard_tier": "個人差S"
+      }
+    }
+  },
+  "Urban Constellations": {
+    "name_on_csv": "Urban Constellations",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "個人差A+",
+        "hard_tier": "個人差A+"
+      }
+    }
+  },
+  "Bow shock!!": {
+    "name_on_csv": "Bow shock!!",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "Dans la nuit de l'éternité": {
+    "name_on_csv": "Dans la nuit de l'eternite",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "Smashing Wedge": {
+    "name_on_csv": "Smashing Wedge",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "THE F∀UST": {
+    "name_on_csv": "THE F∀UST",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "がっつり陰キャ!? 怪盗いいんちょの億劫^^;": {
+    "name_on_csv": "がっつり陰キャ!? 怪盗いいんちょの億劫^^;",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "SCREW // owo // SCREW": {
+    "name_on_csv": "SCREW // owo // SCREW",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差A+",
+        "hard_tier": "個人差A+"
+      }
+    }
+  },
+  "Ignis†Iræ": {
+    "name_on_csv": "Ignis†Irae",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "Tiempo Loco": {
+    "name_on_csv": "Tiempo Loco",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力A"
+      }
+    }
+  },
+  "∀": {
+    "name_on_csv": "∀",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "-65℃": {
+    "name_on_csv": "-65℃",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "Level 3": {
+    "name_on_csv": "Level 3",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差A+",
+        "hard_tier": "個人差S"
+      }
+    }
+  },
+  "THE PEERLESS UNDER HEAVEN": {
+    "name_on_csv": "THE PEERLESS UNDER HEAVEN",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差A+",
+        "hard_tier": "個人差S"
+      }
+    }
+  },
+  "SOLID WYVERN": {
+    "name_on_csv": "SOLID WYVERN",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "TOMAHAWK": {
+    "name_on_csv": "TOMAHAWK",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差A+",
+        "hard_tier": "個人差A+"
+      }
+    }
+  },
+  "ピアノ独奏無言歌 \"灰燼\"": {
+    "name_on_csv": "ピアノ独奏無言歌 \"灰燼\"",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差A+",
+        "hard_tier": "個人差S"
+      }
+    }
+  },
+  "Bad Encryption": {
+    "name_on_csv": "Bad Encryption",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "LOUDER ROLLING THUNDER": {
+    "name_on_csv": "LOUDER ROLLING THUNDER",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "The Clown of 24stairs": {
+    "name_on_csv": "The Clown of 24stairs",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "VØID": {
+    "name_on_csv": "VOID",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "個人差S"
+      }
+    }
+  },
+  "[ ]DENTITY": {
+    "name_on_csv": "[ ]DENTITY",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "Level 4": {
+    "name_on_csv": "Level 4",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差A+",
+        "hard_tier": "個人差S"
+      }
+    }
+  },
+  "Ambivalent Vermilia": {
+    "name_on_csv": "Ambivalent Vermilia",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "CADENZA": {
+    "name_on_csv": "CADENZA",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "Glitch N Ride": {
+    "name_on_csv": "Glitch N Ride",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "個人差A+"
+      }
+    }
+  },
+  "SOLAR ECLIPSE": {
+    "name_on_csv": "SOLAR ECLIPSE",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "個人差S"
+      }
+    }
+  },
+  "Vulnerability": {
+    "name_on_csv": "Vulnerability",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "God Mind": {
+    "name_on_csv": "God Mind",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "Satellite Burst": {
+    "name_on_csv": "Satellite Burst",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "スキッテイエェエエェ!!!!": {
+    "name_on_csv": "スキッテイエェエエェ!!!!",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "Amor∞Fati": {
+    "name_on_csv": "Amor∞Fati",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "Memoria Obscura": {
+    "name_on_csv": "Memoria Obscura",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "ιgniЯRuina": {
+    "name_on_csv": "ιgniЯRuina",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "色を喪った街": {
+    "name_on_csv": "色を喪った街",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "⁽⁽ଘ( ˙꒳˙ )ଓ⁾⁾ beyond reason": {
+    "name_on_csv": "⁽⁽ଘ( ˙꒳˙ )ଓ⁾⁾ beyond reason",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A+",
+        "hard_tier": "地力A+"
+      }
+    }
+  },
+  "RUINA": {
+    "name_on_csv": "RUINA",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差A+",
+        "hard_tier": "個人差S"
+      }
+    }
+  },
+  "嘆きの樹": {
+    "name_on_csv": "嘆きの樹",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力S",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "TRANOID": {
+    "name_on_csv": "TRANOID",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力S",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "Time to Air": {
+    "name_on_csv": "Time to Air",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "個人差S",
+        "hard_tier": "個人差S"
+      }
+    }
+  },
+  "perditus†paradisus": {
+    "name_on_csv": "perditus†paradisus",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力S",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "Phoenix": {
+    "name_on_csv": "Phoenix",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力S",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "Confiserie": {
+    "name_on_csv": "Confiserie",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力S",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "Elemental Creation": {
+    "name_on_csv": "Elemental Creation",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力S",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "お米の美味しい炊き方、そしてお米を食べることによるその効果。": {
+    "name_on_csv": "お米の美味しい炊き方、そしてお米を食べることによるその効果。",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力S",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "Timepiece phase II(CN Ver.)": {
+    "name_on_csv": "Timepiece phase II (CN Ver.)",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差S",
+        "hard_tier": "個人差S"
+      }
+    }
+  },
+  "Sigmund": {
+    "name_on_csv": "Sigmund",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力S",
+        "hard_tier": "地力S"
+      },
+      "leggendaria": {
+        "nomal_tier": "地力S+",
+        "hard_tier": "地力S+"
+      }
+    }
+  },
+  "IX": {
+    "name_on_csv": "IX",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力S",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "Chrono Diver -PENDULUMs-": {
+    "name_on_csv": "Chrono Diver -PENDULUMs-",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力S",
+        "hard_tier": "地力S+"
+      }
+    }
+  },
+  "共鳴遊戯の華": {
+    "name_on_csv": "共鳴遊戯の華",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力S",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "#The_Relentless": {
+    "name_on_csv": "#The_Relentless",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力S",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "駅猫のワルツ": {
+    "name_on_csv": "駅猫のワルツ",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力S",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "Go Ahead!!": {
+    "name_on_csv": "Go Ahead!!",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力S",
+        "hard_tier": "地力S+"
+      }
+    }
+  },
+  "焔極OVERKILL": {
+    "name_on_csv": "焔極OVERKILL",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力S",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "BroGamer": {
+    "name_on_csv": "BroGamer",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "個人差S",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "EMERALDAS": {
+    "name_on_csv": "EMERALDAS",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力S",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "Carmina": {
+    "name_on_csv": "Carmina",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力S",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "GO OVER WITH GLARE -ROOTAGE 26-": {
+    "name_on_csv": "GO OVER WITH GLARE -ROOTAGE 26-",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力S",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "Χ-DEN": {
+    "name_on_csv": "X-DEN",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力S",
+        "hard_tier": "地力S+"
+      }
+    }
+  },
+  "Everlasting Message": {
+    "name_on_csv": "Everlasting Message",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力S",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "Lost Souls": {
+    "name_on_csv": "Lost Souls",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力S",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "Override": {
+    "name_on_csv": "Override",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力S",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "EROICA": {
+    "name_on_csv": "EROICA",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差S",
+        "hard_tier": "地力S+"
+      }
+    }
+  },
+  "Lords Of The Roundtable": {
+    "name_on_csv": "Lords Of The Roundtable",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差S",
+        "hard_tier": "個人差S"
+      }
+    }
+  },
+  "MEGAERA": {
+    "name_on_csv": "MEGAERA",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力S",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "Sinus Iridum": {
+    "name_on_csv": "Sinus Iridum",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力S",
+        "hard_tier": "地力S+"
+      }
+    }
+  },
+  "ディスコルディア": {
+    "name_on_csv": "ディスコルディア",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差S",
+        "hard_tier": "地力S+"
+      }
+    }
+  },
+  "Binary Black Hole": {
+    "name_on_csv": "Binary Black Hole",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力S",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "hard-wired": {
+    "name_on_csv": "hard-wired",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力S",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "WHA": {
+    "name_on_csv": "WHA",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差S",
+        "hard_tier": "個人差S"
+      }
+    }
+  },
+  "Xerulean": {
+    "name_on_csv": "Xerulean",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力S",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "栄冠のカンパネラ": {
+    "name_on_csv": "栄冠のカンパネラ",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力S",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "≡＋≡": {
+    "name_on_csv": "≡+≡",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力S",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "Level 5": {
+    "name_on_csv": "Level 5",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差S",
+        "hard_tier": "個人差S+"
+      }
+    }
+  },
+  "天使のカンタータ -Cantata of Angels-": {
+    "name_on_csv": "天使のカンタータ -Cantata of Angels-",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力S",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "fixer": {
+    "name_on_csv": "fixer",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力S",
+        "hard_tier": "個人差S"
+      }
+    }
+  },
+  "FiZZλ_PØT!OИ": {
+    "name_on_csv": "FiZZλ_POT!0N",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力S",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "Makin' It": {
+    "name_on_csv": "Makin' It",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差S",
+        "hard_tier": "個人差S"
+      }
+    }
+  },
+  "KAMAITACHI": {
+    "name_on_csv": "KAMAITACHI",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力S+",
+        "hard_tier": "地力S+"
+      }
+    }
+  },
+  "Do it!! Do it!!": {
+    "name_on_csv": "Do it!! Do it!!",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力S+",
+        "hard_tier": "地力S"
+      }
+    }
+  },
+  "卑弥呼": {
+    "name_on_csv": "卑弥呼",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力S+",
+        "hard_tier": "地力S+"
+      }
+    }
+  },
+  "THE BLACK KNIGHT": {
+    "name_on_csv": "THE BLACK KNIGHT",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力S+",
+        "hard_tier": "地力S+"
+      }
+    }
+  },
+  "灼熱Beach Side Bunny": {
+    "name_on_csv": "灼熱Beach Side Bunny",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差S+",
+        "hard_tier": "個人差S+"
+      }
+    }
+  },
+  "DIAVOLO": {
+    "name_on_csv": "DIAVOLO",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差S+",
+        "hard_tier": "個人差S+"
+      }
+    }
+  },
+  "Illegal Function Call": {
+    "name_on_csv": "Illegal Function Call",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "地力S+",
+        "hard_tier": "地力S+"
+      }
+    }
+  },
+  "Plan 8": {
+    "name_on_csv": "Plan 8",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差S+",
+        "hard_tier": "個人差S+"
+      }
+    }
+  },
+  "灼熱 Pt.2 Long Train Running": {
+    "name_on_csv": "灼熱 Pt.2 Long Train Running",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差S+",
+        "hard_tier": "個人差S+"
+      }
+    }
+  },
+  "Mare Nectaris": {
+    "name_on_csv": "Mare Nectaris",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力S+",
+        "hard_tier": "地力S+"
+      }
+    }
+  },
+  "SAMURAI-Scramble": {
+    "name_on_csv": "SAMURAI-Scramble",
+    "charts": {
+      "leggendaria": {
+        "nomal_tier": "個人差S+",
+        "hard_tier": "個人差S+"
+      }
+    }
+  },
+  "n/a": {
+    "name_on_csv": "n/a",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力S+",
+        "hard_tier": "地力S+"
+      }
+    }
+  },
+  "RAGE feat.H14 of LEONAIR": {
+    "name_on_csv": "RAGE feat.H14 of LEONAIR",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差S+",
+        "hard_tier": "個人差S+"
+      }
+    }
+  },
+  "Beyond Evolution": {
+    "name_on_csv": "Beyond Evolution",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力S+",
+        "hard_tier": "地力S+"
+      }
+    }
+  },
+  "Somnidiscotheque": {
+    "name_on_csv": "Somnidiscotheque",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力S+",
+        "hard_tier": "地力S+"
+      }
+    }
+  },
+  "惑星鉄道": {
+    "name_on_csv": "惑星鉄道",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力S+",
+        "hard_tier": "地力S+"
+      }
+    }
+  },
+  "SμG@R RU$#": {
+    "name_on_csv": "SμG@R RU$#",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力S+",
+        "hard_tier": "地力S+"
+      }
+    }
+  },
+  "XHRONOXAPSULΞ": {
+    "name_on_csv": "XHRONOXAPSULΞ",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力S+",
+        "hard_tier": "地力S+"
+      }
+    }
+  },
+  "Skratch Education Lv-1": {
+    "name_on_csv": "Skratch Education Lv-1",
+    "charts": {
+      "another": {
+        "nomal_tier": "個人差S+",
+        "hard_tier": "個人差S+"
+      }
+    }
+  },
+  "DEATH†ZIGOQ～怒りの高速爆走野郎～": {
+    "name_on_csv": "DEATH†ZIGOQ ～怒りの高速爆走野郎～",
+    "charts": {
+      "another": {
+        "nomal_tier": "地力A",
+        "hard_tier": "地力A+"
+      },
+      "leggendaria": {
+        "nomal_tier": "地力S+",
+        "hard_tier": "地力S+"
+      }
+    }
+  }
+}
