@@ -45,6 +45,27 @@
     color: var(--muted);
     font-size: 0.85rem;
   }
+  .changelog {
+    margin-top: 8px;
+    font-size: 0.8rem;
+    color: var(--muted);
+  }
+  .changelog summary {
+    cursor: pointer;
+    user-select: none;
+  }
+  .changelog ul {
+    margin: 6px 0 0;
+    padding-left: 18px;
+  }
+  .changelog li {
+    margin-bottom: 2px;
+  }
+  .changelog .changelog-date {
+    color: var(--fg);
+    font-weight: 600;
+    margin-right: 6px;
+  }
 
   .controls {
     display: flex;
@@ -130,10 +151,6 @@
     font-size: 0.8rem;
     padding: 0;
   }
-  #csvStatus {
-    font-size: 0.8rem;
-  }
-
   .legend {
     display: flex;
     flex-wrap: wrap;
@@ -230,6 +247,10 @@
   <header class="page-header">
     <h1>beatmania IIDX ☆12 難易度表</h1>
     <p class="subtitle">地力 / 個人差 タイル × クリアランプ基準（ノーマル / ハード）で分類</p>
+    <details class="changelog">
+      <summary>更新履歴</summary>
+      <ul id="changelogList"></ul>
+    </details>
   </header>
 
   <div class="controls">
@@ -243,7 +264,6 @@
     </div>
     <div class="csv-control">
       <a class="csv-btn" href="csv-import.html">プレーデータCSVを読み込む</a>
-      <span id="csvStatus"></span>
       <button class="csv-reset" id="csvReset" hidden>クリア状況を解除</button>
     </div>
   </div>
@@ -256,9 +276,11 @@
 
 <script id="chart-data" type="application/json">__CHART_DATA__</script>
 <script id="tier-order" type="application/json">__TIER_ORDER__</script>
+<script id="changelog-data" type="application/json">__CHANGELOG__</script>
 <script>
   const DATA = JSON.parse(document.getElementById('chart-data').textContent);
   const TIERS = JSON.parse(document.getElementById('tier-order').textContent);
+  const CHANGELOG = JSON.parse(document.getElementById('changelog-data').textContent);
 
   const CLEAR_TEXT_COLOR = '#333333';
   const CLEAR_COLORS = [
@@ -281,9 +303,9 @@
   const boardEl = document.getElementById('board');
   const statsEl = document.getElementById('stats');
   const legendEl = document.getElementById('legend');
+  const changelogListEl = document.getElementById('changelogList');
   const tabBtns = document.querySelectorAll('.tab-btn');
   const colButtonsEl = document.getElementById('colButtons');
-  const csvStatusEl = document.getElementById('csvStatus');
   const csvResetBtn = document.getElementById('csvReset');
 
   const CSV_STORAGE_KEY = 'sp12CsvData';
@@ -310,6 +332,12 @@
     item.className = 'legend-item';
     item.innerHTML = `<span class="legend-swatch" style="background:${group.bg}"></span><span>${group.label}</span>`;
     legendEl.appendChild(item);
+  }
+
+  for (const entry of CHANGELOG) {
+    const item = document.createElement('li');
+    item.innerHTML = `<span class="changelog-date">${entry.date}</span><span>${entry.text}</span>`;
+    changelogListEl.appendChild(item);
   }
 
   function parseCSV(text) {
@@ -380,19 +408,12 @@
 
     const { map } = buildClearMap(saved.text);
     clearMap = map;
-
-    let matched = 0;
-    for (const entry of DATA) {
-      if (clearMap.has(entry.csv)) matched++;
-    }
-    csvStatusEl.textContent = `${saved.name}（${matched}/${DATA.length} 譜面が一致）`;
     csvResetBtn.hidden = false;
   }
 
   csvResetBtn.addEventListener('click', () => {
     clearMap = null;
     localStorage.removeItem(CSV_STORAGE_KEY);
-    csvStatusEl.textContent = '';
     csvResetBtn.hidden = true;
     render(currentMode());
   });
