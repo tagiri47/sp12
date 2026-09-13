@@ -5,9 +5,22 @@ const path = require('path');
 
 const ROOT = path.resolve(__dirname, '..');
 const SRC_JSON = path.join(ROOT, 'data', 'charts.json');
+const CHANGELOG_PATH = path.join(ROOT, 'CHANGELOG.md');
 const OUT_HTML = path.join(ROOT, 'index.html');
 
 const raw = JSON.parse(fs.readFileSync(SRC_JSON, 'utf8'));
+
+function parseChangelog(markdown) {
+  const entries = [];
+  for (const line of markdown.split('\n')) {
+    const m = line.match(/^-\s*(\d{4}\/\d{2}\/\d{2}):\s*(.+)$/);
+    if (m) entries.push({ date: m[1], text: m[2].trim() });
+  }
+  entries.sort((a, b) => b.date.localeCompare(a.date));
+  return entries;
+}
+
+const changelog = parseChangelog(fs.readFileSync(CHANGELOG_PATH, 'utf8'));
 
 const DIFF_LABEL = { another: 'A', hyper: 'H', leggendaria: 'L' };
 
@@ -45,7 +58,8 @@ const TIERS = [
 const template = fs.readFileSync(path.join(ROOT, 'scripts', 'index.template.html'), 'utf8');
 const html = template
   .replace('__CHART_DATA__', JSON.stringify(entries))
-  .replace('__TIER_ORDER__', JSON.stringify(TIERS));
+  .replace('__TIER_ORDER__', JSON.stringify(TIERS))
+  .replace('__CHANGELOG__', JSON.stringify(changelog));
 
 fs.writeFileSync(OUT_HTML, html, 'utf8');
 console.log(`Wrote ${OUT_HTML} with ${entries.length} chart entries.`);
