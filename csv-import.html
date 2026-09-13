@@ -1,0 +1,284 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>プレーデータCSV読み込み</title>
+<style>
+  :root {
+    color-scheme: light;
+    --bg: #f5f6f8;
+    --fg: #1c1e21;
+    --muted: #6b7280;
+    --card-bg: #ffffff;
+    --card-border: #e2e4e8;
+    --accent: #2563eb;
+    --accent-fg: #ffffff;
+    --tab-inactive-bg: #e5e7eb;
+    --tab-inactive-fg: #374151;
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--fg);
+    font-family: "Hiragino Kaku Gothic ProN", "Yu Gothic", "Segoe UI", system-ui, sans-serif;
+  }
+  header.page-header {
+    padding: 20px 24px 12px;
+  }
+  h1 {
+    margin: 0 0 4px;
+    font-size: 1.4rem;
+  }
+  .subtitle {
+    margin: 0;
+    color: var(--muted);
+    font-size: 0.85rem;
+  }
+  main {
+    max-width: 640px;
+    margin: 0 auto;
+    padding: 0 24px 32px;
+  }
+
+  .tabs {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 16px;
+  }
+  .tab-btn {
+    border: none;
+    border-radius: 999px;
+    padding: 8px 18px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    cursor: pointer;
+    background: var(--tab-inactive-bg);
+    color: var(--tab-inactive-fg);
+  }
+  .tab-btn.active {
+    background: var(--accent);
+    color: var(--accent-fg);
+  }
+
+  .panel {
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 10px;
+    padding: 20px;
+  }
+  .panel[hidden] {
+    display: none;
+  }
+
+  .dropzone {
+    border: 2px dashed var(--card-border);
+    border-radius: 10px;
+    padding: 32px 16px;
+    text-align: center;
+    color: var(--muted);
+    font-size: 0.9rem;
+  }
+  .dropzone.dragover {
+    border-color: var(--accent);
+    color: var(--fg);
+  }
+  #csvFileInput {
+    display: none;
+  }
+  .file-btn {
+    display: inline-block;
+    border: none;
+    border-radius: 999px;
+    padding: 8px 16px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    cursor: pointer;
+    background: var(--tab-inactive-bg);
+    color: var(--tab-inactive-fg);
+    margin-top: 12px;
+  }
+  .file-btn:hover {
+    filter: brightness(0.95);
+  }
+  #fileName {
+    display: block;
+    margin-top: 10px;
+    font-size: 0.85rem;
+    color: var(--muted);
+  }
+
+  textarea {
+    width: 100%;
+    min-height: 220px;
+    resize: vertical;
+    padding: 10px;
+    font-family: ui-monospace, SFMono-Regular, Consolas, monospace;
+    font-size: 0.8rem;
+    border: 1px solid var(--card-border);
+    border-radius: 8px;
+    color: var(--fg);
+    background: var(--card-bg);
+  }
+
+  .actions {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-top: 16px;
+  }
+  .primary-btn {
+    border: none;
+    border-radius: 999px;
+    padding: 8px 20px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    cursor: pointer;
+    background: var(--accent);
+    color: var(--accent-fg);
+  }
+  .primary-btn:disabled {
+    background: var(--tab-inactive-bg);
+    color: var(--muted);
+    cursor: not-allowed;
+  }
+  .cancel-link {
+    color: var(--muted);
+    text-decoration: underline;
+    font-size: 0.85rem;
+  }
+
+  #errorMsg {
+    color: #b3261e;
+    font-size: 0.85rem;
+    margin-top: 10px;
+  }
+</style>
+</head>
+<body>
+  <header class="page-header">
+    <h1>プレーデータCSVを読み込む</h1>
+    <p class="subtitle">CSVファイルをアップロードするか、CSVデータをテキストで貼り付けてください</p>
+  </header>
+
+  <main>
+    <div class="tabs">
+      <button class="tab-btn active" data-panel="uploadPanel">ファイルをアップロード</button>
+      <button class="tab-btn" data-panel="pastePanel">テキストを貼り付け</button>
+    </div>
+
+    <div class="panel" id="uploadPanel">
+      <div class="dropzone" id="dropzone">
+        <p>ここにCSVファイルをドラッグ＆ドロップ、またはファイルを選択してください</p>
+        <label class="file-btn" for="csvFileInput">ファイルを選択</label>
+        <input type="file" id="csvFileInput" accept=".csv">
+        <span id="fileName"></span>
+      </div>
+    </div>
+
+    <div class="panel" id="pastePanel" hidden>
+      <textarea id="csvTextarea" placeholder="CSVデータをここに貼り付けてください"></textarea>
+    </div>
+
+    <div id="errorMsg" hidden></div>
+
+    <div class="actions">
+      <button class="primary-btn" id="loadBtn" disabled>読み込む</button>
+      <a class="cancel-link" href="index.html">キャンセルして戻る</a>
+    </div>
+  </main>
+
+<script>
+  const CSV_STORAGE_KEY = 'sp12CsvData';
+
+  const tabBtns = document.querySelectorAll('.tab-btn');
+  const uploadPanel = document.getElementById('uploadPanel');
+  const pastePanel = document.getElementById('pastePanel');
+  const dropzone = document.getElementById('dropzone');
+  const csvFileInput = document.getElementById('csvFileInput');
+  const fileNameEl = document.getElementById('fileName');
+  const csvTextarea = document.getElementById('csvTextarea');
+  const loadBtn = document.getElementById('loadBtn');
+  const errorMsgEl = document.getElementById('errorMsg');
+
+  let activePanel = 'uploadPanel';
+  let selectedFile = null;
+
+  function showError(msg) {
+    errorMsgEl.textContent = msg;
+    errorMsgEl.hidden = !msg;
+  }
+
+  function updateLoadEnabled() {
+    if (activePanel === 'uploadPanel') {
+      loadBtn.disabled = !selectedFile;
+    } else {
+      loadBtn.disabled = csvTextarea.value.trim() === '';
+    }
+  }
+
+  tabBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      tabBtns.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      activePanel = btn.dataset.panel;
+      uploadPanel.hidden = activePanel !== 'uploadPanel';
+      pastePanel.hidden = activePanel !== 'pastePanel';
+      showError('');
+      updateLoadEnabled();
+    });
+  });
+
+  csvFileInput.addEventListener('change', () => {
+    selectedFile = csvFileInput.files[0] || null;
+    fileNameEl.textContent = selectedFile ? selectedFile.name : '';
+    updateLoadEnabled();
+  });
+
+  ['dragover', 'dragenter'].forEach(evt => {
+    dropzone.addEventListener(evt, e => {
+      e.preventDefault();
+      dropzone.classList.add('dragover');
+    });
+  });
+  ['dragleave', 'dragend', 'drop'].forEach(evt => {
+    dropzone.addEventListener(evt, () => dropzone.classList.remove('dragover'));
+  });
+  dropzone.addEventListener('drop', e => {
+    e.preventDefault();
+    const file = e.dataTransfer.files && e.dataTransfer.files[0];
+    if (!file) return;
+    selectedFile = file;
+    csvFileInput.value = '';
+    fileNameEl.textContent = file.name;
+    updateLoadEnabled();
+  });
+
+  csvTextarea.addEventListener('input', updateLoadEnabled);
+
+  function saveAndReturn(name, text) {
+    if (!text || !text.trim()) {
+      showError('CSVデータが空です。');
+      return;
+    }
+    localStorage.setItem(CSV_STORAGE_KEY, JSON.stringify({ name, text }));
+    location.href = 'index.html';
+  }
+
+  loadBtn.addEventListener('click', () => {
+    showError('');
+    if (activePanel === 'uploadPanel') {
+      if (!selectedFile) return;
+      const reader = new FileReader();
+      reader.onload = () => saveAndReturn(selectedFile.name, String(reader.result));
+      reader.onerror = () => showError('ファイルの読み込みに失敗しました。');
+      reader.readAsText(selectedFile, 'utf-8');
+    } else {
+      saveAndReturn('貼り付けデータ', csvTextarea.value);
+    }
+  });
+</script>
+</body>
+</html>
