@@ -12,7 +12,7 @@ const raw = JSON.parse(fs.readFileSync(SRC_JSON, 'utf8'));
 
 function parseChangelog(markdown) {
   const entries = [];
-  for (const line of markdown.split('\n')) {
+  for (const line of markdown.split(/\r?\n/)) {
     const m = line.match(/^-\s*(\d{4}\/\d{2}\/\d{2}):\s*(.+)$/);
     if (m) entries.push({ date: m[1], text: m[2].trim() });
   }
