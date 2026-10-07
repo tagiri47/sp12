@@ -40,9 +40,12 @@ disable-model-invocation: true
 
 ## 4. add / commit / push
 
+`main` はリポジトリのルールで直接 push できない（PR 経由のみ）。そのため、commit の前にブランチを確認する。
+
+- 現在のブランチが `main` の場合: `git switch -c feature/YYYYMMDD`（今日の日付）で作業用ブランチを作る。同名のブランチがローカルかリモートにすでにある場合は、`feature/YYYYMMDD-2` のように連番を付ける。
+- `main` 以外の場合: そのブランチのまま進める。
 - `git add CHANGELOG.md data/charts.json index.html`（手順 1 で移動した元ファイルが追跡されていた場合は、その削除も含める）
 - コミットメッセージは英語で、内容がわかるように書く（例: `Add Smintheus chart and update changelog`）。
-- 現在のブランチを push する。upstream が未設定なら `git push -u origin <branch>` を使う。
-- 現在のブランチが `main` の場合は、push する前にユーザーに確認する。
+- push する。upstream が未設定なら `git push -u origin <branch>` を使う。
 
-最後に、追記した CHANGELOG の行・コミットハッシュ・push 先を報告する。
+最後に、追記した CHANGELOG の行・コミットハッシュ・push 先のブランチ・PR 作成用 URL（push 時に表示される `https://github.com/.../pull/new/...`）を報告する。
