@@ -89,6 +89,15 @@
     },
     "name_on_csv": "255"
   },
+  "27th style": {
+    "charts": {
+      "leggendaria": {
+        "hard_tier": "個人差S",
+        "nomal_tier": "個人差S"
+      }
+    },
+    "name_on_csv": "27th style"
+  },
   "3y3s": {
     "charts": {
       "another": {
@@ -1896,6 +1905,15 @@
       }
     },
     "name_on_csv": "Invitation from Mr.C"
+  },
+  "Iridescent Memories": {
+    "charts": {
+      "another": {
+        "hard_tier": "地力S",
+        "nomal_tier": "地力A+"
+      }
+    },
+    "name_on_csv": "Iridescent Memories"
   },
   "JOMANDA": {
     "charts": {
