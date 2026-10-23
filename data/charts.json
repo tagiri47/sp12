@@ -4560,6 +4560,15 @@
     },
     "name_on_csv": "spiral galaxy"
   },
+  "super double play sessions": {
+    "charts": {
+      "another": {
+        "hard_tier": "地力S+",
+        "nomal_tier": "地力S+"
+      }
+    },
+    "name_on_csv": "super double play sessions"
+  },
   "suspicions": {
     "charts": {
       "another": {
@@ -4887,6 +4896,15 @@
       }
     },
     "name_on_csv": "グッバイ宣言"
+  },
+  "サタデーナイト☆ギャロップ": {
+    "charts": {
+      "another": {
+        "hard_tier": "地力S",
+        "nomal_tier": "地力S"
+      }
+    },
+    "name_on_csv": "サタデーナイト☆ギャロップ"
   },
   "シムルグの目醒め": {
     "charts": {
