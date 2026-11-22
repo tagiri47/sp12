@@ -9,3 +9,4 @@
 - 2026/10/23: 譜面データに2譜面を追加（super double play sessions ANOTHER: ノマゲ地力S+ / ハード地力S+、サタデーナイト☆ギャロップ ANOTHER: ノマゲ地力S / ハード地力S）
 - 2026/10/29: 譜面データに1譜面を追加（Raison d'être～交差する宿命～ LEGGENDARIA: ノマゲ地力S+ / ハード地力S+）
 - 2026/11/14: 譜面データの難易度を2件変更（INAZUMA LEGGENDARIA: ノマゲ個人差A → 地力A、LOCUS OF THE TRAVEL ANOTHER: ハード地力A+ → 個人差A+）
+- 2026/11/22: 譜面データに1譜面を追加（Calvados Queen LEGGENDARIA: ノマゲ地力B / ハード地力B）
